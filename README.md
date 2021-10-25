@@ -1,4 +1,4 @@
-Currently an undergraduate student of SWJTU and the University of Leeds. MAJOR： computer science。
+<strong>Currently an undergraduate student of SWJTU and the University of Leeds. MAJOR： Computer Science.</strong>
 
 <!---
 zzh8241102/zzh8241102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
