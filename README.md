@@ -7,7 +7,7 @@
 
 #### 👁️ I have some experiences in ```Computer Vision research``` and have worked on a variety of projects that leverage the power of ```Deep Learning``` to achieve desired results.
 
-#### 💻 Additionally, I have honed my ```Full Stack Web/Desktop/Mobile``` app development skills, allowing me to bring the projects to life and deliver end-to-end solutions.
+#### 💻 I have honed my ```Full Stack Web/Desktop/Mobile``` app development skills, allowing me to bring the projects to life and deliver end-to-end solutions.
 
 #### 🗂️ I am the co-founder of the ```open source``` community ```Miracle Factory``` , eagering to connect with other members of the open source community and particularly interested in exploring new collaborations that can drive meaningful changes. 
 
