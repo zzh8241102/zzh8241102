@@ -5,7 +5,7 @@
 
 #### 🚀 I am a ```Deep Learning``` enthusiast with a passion for integrating this exciting field with ```Computer Infrastructure``` 🏠. My goal is to use technology to create innovative solutions that can make a difference in the world.
 
-#### 👁️ I have some experience in ```Computer Vision research``` and have worked on a variety of projects that leverage the power of ```Deep Learning``` to achieve desired results.
+#### 👁️ I have some experiences in ```Computer Vision research``` and have worked on a variety of projects that leverage the power of ```Deep Learning``` to achieve desired results.
 
 #### 💻 Additionally, I have honed my ```Full Stack Web/Desktop/Mobile``` app development skills, allowing me to bring the projects to life and deliver end-to-end solutions.
 
