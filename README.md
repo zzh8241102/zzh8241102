@@ -3,8 +3,8 @@
 
 <hr>
 
-#### 🚀 I am a ```Deep Learning``` enthusiast with a passion for integrating this exciting field with ```Computer Infrastructure``` 🏠. 
-#### 👁️ I have some experiences in ```Computer Vision research``` and have worked on a variety of projects that leverage the power of ```Deep Learning``` to achieve desired results.
+#### 🚀 I am a ```machine Learning``` and ```data science``` enthusiast with a passion for integrating this exciting field with ```Computer Infrastructure``` 🏠. 
+#### 👁️ I have some experiences in ```Computer Vision research``` 
 
 #### 💻 I have honed my ```Full Stack Web/Desktop/Mobile``` app development skills, allowing me to bring the projects to life and deliver end-to-end solutions.
 
