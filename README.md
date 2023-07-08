@@ -1,7 +1,4 @@
-
-### *Please note that the majority of my individual projects are currently set to ```private``` due to university and laboratory regulations. They will be made available on my GitHub profile upon the start of the application period.*
-
-<hr>
+* 🧑‍💻 I am currently working as an `Algorithm Intern` at [DiDi](https://www.didiglobal.com/) in Beijing.
 
 * 🚀 I am a ```machine Learning``` and ```data science``` enthusiast with a passion for integrating this exciting field with ```Computer Infrastructure``` 🏠. 
 * 👁️ I have some experiences in ```Computer Vision research``` 
@@ -12,5 +9,4 @@
 
 
 
-<hr>
 
