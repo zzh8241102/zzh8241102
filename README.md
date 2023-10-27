@@ -1,3 +1,4 @@
+🍀 **Hi, I am ```Bill``` ✍️**
 * 🚀 I am a ```machine Learning``` and ```data science``` enthusiast with a passion for integrating this exciting field with ```Computer Infrastructure``` 🏠. 
 * 👁️ I have some experiences in ```Computer Vision research``` 
 
