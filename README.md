@@ -1,4 +1,4 @@
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=zzh8241102README)
+
 
 
 | :sparkles: | Journeying Through AI Engineering, Intelligent System, DSML: Passion, Innovation, Discovery | :sparkles: |
