@@ -1,9 +1,11 @@
 
 
-
+<div align="center">
+  
 | :sparkles: | Journeying Through AI Engineering, Intelligent System, DSML: Passion, Innovation, Discovery | :sparkles: |
 |------------|------------------------------------------------------------|------------|
 
+</div>
 🍀 **Hi, I'm `Bill`, Enthusiastic AI/ML Engineer ✍️**
 
 * 🚀 Driven by my passion for machine learning and data science, I began crafting AI solutions and advanced to an algorithm R&D engineer role at ```DiDi```. Now, I'm thrilled to embark on the next exciting phase of my journey.
