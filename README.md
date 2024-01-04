@@ -1,3 +1,5 @@
+
+
 | :sparkles: | Journeying Through AI Engineering, Intelligent System, and Algorithm: Passion, Innovation, Discovery | :sparkles: |
 |------------|------------------------------------------------------------|------------|
 
