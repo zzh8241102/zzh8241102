@@ -1,6 +1,6 @@
 
 
-| :sparkles: | Journeying Through AI Engineering, Intelligent System, and Algorithm: Passion, Innovation, Discovery | :sparkles: |
+| :sparkles: | Journeying Through AI Engineering, Intelligent System, DSML: Passion, Innovation, Discovery | :sparkles: |
 |------------|------------------------------------------------------------|------------|
 
 🍀 **Hi, I'm `Bill`, Enthusiastic AI/ML Engineer ✍️**
