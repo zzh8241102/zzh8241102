@@ -2,7 +2,7 @@
 
 <div align="center">
   
-| :sparkles: | Journeying Through AI Engineering, Intelligent System, DSML: Passion, Innovation, Discovery | :sparkles: |
+| :sparkles: | Journeying Through AI Engineering, Intelligent System, Data Science & Machine Learning | :sparkles: |
 |------------|------------------------------------------------------------|------------|
 
 </div>
