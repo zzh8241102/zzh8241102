@@ -1,4 +1,4 @@
-**Hi, I'm `Bill`,  AI/ML Engineer**
+**Hi, I'm `zihan`,  AI/ML Engineer**
 
 * Driven by my passion for machine learning and data science, I began crafting AI solutions and advanced to an machine learning engineer role at ```DiDi```. 
 
