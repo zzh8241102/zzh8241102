@@ -1,1 +1,1 @@
-My excitement lies in exploring AI domains from ```LLM```, ```information retrieval(GNN)```, ```multimodal systems```, and ```machine perception```.
+My excitement lies in exploring domains from ```LLM```, ```information retrieval```, ```multimodal systems```, and ```machine perception```.
