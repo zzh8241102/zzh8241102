@@ -1,1 +1,1 @@
-My excitement lies in exploring domains from ```language modelling```, ```representation learning```, ```multimodal systems```, and ```machine perception & reasoning```.
+My excitement lies in exploring domains from ```language modelling```, ```reinforcement learning```, ```multimodal systems```, and ```machine perception & reasoning```.
